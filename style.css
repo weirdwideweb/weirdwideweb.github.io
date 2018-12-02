@@ -9,3 +9,6 @@ p{
 	color:brown;
 	font-family: Helvetica;
   }
+.italic{
+	font-style: italic;
+}
